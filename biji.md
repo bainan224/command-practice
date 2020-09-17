@@ -2,7 +2,7 @@
 
 ####      Git
 
-* 搞定 Github
+* 搞定 Github：git add remote"地址"
 
 * 新建一个文件夹，查看器中隐藏文件
 
